@@ -26,7 +26,7 @@ logo:     #optional, defaults to site title
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-T5QK4FFK43
 
 collections:
   portfolio:
