@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Hottub - Jacuzzi
+  title: Jacuzzi
   thumbnail: assets/img/portfolio/jacuzzi-front.jpg
   
 #what displays when the item is clicked:
-title: Hottub - Jacuzzi
+title: Jacuzzi
 image: assets/img/portfolio/jacuzzi.jpg
 
 ---
-Poseban doživljaj pruža boravak u hot tubu tijekom zimskog perioda, kada topla voda i svježi zrak stvaraju jedinstven osjećaj luksuza i relaksacije.
+Boravak u jacuzziju, grijanom na drva tijekom zimskih mjeseci, pruža poseban doživljaj – spoj tople vode i svježeg zraka stvara jedinstven osjećaj luksuza i potpune relaksacije.
