@@ -28,7 +28,7 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Smještani kapactite kuće"
-        desc: "Kuća za odmor nalazi se u na krajnjem sjeveroistoku Osječko-baranjske županije, uz Dunav i granični prijelaz Batina. Smještajnog kapaciteta do 10 osoba, potpuno je opremljena za višednevni boravak. Okružena prirodom, pruža pogled na planinu, šumu i Dunav. Skrivena od gužve i daleko od susjeda, postaje oaza mira za svakog gosta."
+        desc: "Kuća za odmor nalazi se na krajnjem sjeveroistoku Osječko-baranjske županije, uz Dunav i granični prijelaz Batina. Smještajnog kapaciteta do 10 osoba, potpuno je opremljena za višednevni boravak. Okružena prirodom, pruža pogled na planinu, šumu i Dunav. Skrivena od gužve i daleko od susjeda, postaje oaza mira za svakog gosta."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Hot Tub"
