@@ -30,19 +30,19 @@ en: &DEFAULT_EN
       - title: "Smještani kapactite kuće"
         desc: "Kuća za odmor nalazi se na krajnjem sjeveroistoku Osječko-baranjske županije, uz Dunav i granični prijelaz Batina. Smještajnog kapaciteta do 10 osoba, potpuno je opremljena za višednevni boravak. Okružena prirodom, pruža pogled na planinu, šumu i Dunav. Skrivena od gužve i daleko od susjeda, postaje oaza mira za svakog gosta."
         image: assets/img/timeline/1.jpg
-        alt:
+        alt: Kuća za odmor nalazi se u Slavoniji i Baranji.
       - title: "Hot Tub"
         desc: "Poseban doživljaj i istinski hedonizam pruža vanjska hidromasažna kada (jacuzzi/hot tub). Masaža zračnih i vodenih mlaznica opustit će tijelo, a ugođaj koji pruža zeleni krajolik i pogled na čisto zvijezdano nebo opustit će Vaš um."
         image: assets/img/timeline/2.jpg
-        alt:
+        alt: Poseban doživljaj i istinski hedonizam pruža vanjski jacuzzi.
       - title: "Vinski podrum"
         desc: "Opuštajući ambijent očekuje Vas i unutar kuće, gdje se skriva tradicionalni vinski podrum – gator. Uživanje u dobrom društvu i dobroj kapljici, dobiva novu dimenziju zbog jedinstvene arhitekture ovih podruma. Njihov oblik zaslužan je za odličnu akustiku gdje izvrsno ozvučenje zaista dolazi do izražaja. Kada se društvo dovoljno opusti tu su i dva mikrofona, jer sve je u životu bolje u paru!"
         image: assets/img/timeline/3.jpg
-        alt: image alt text
+        alt: Opuštajući ambijent očekuje Vas i unutar kuće.
       - title: "Natkrivena terasa"
         desc: "Prostrana natkrivena terasa idealno je mjesto za druženje na svježem zraku. Za sve vrsne kuhare među Vama osigurali smo veliku pečenjaru, pribor za roštilj, peku i ražanj. Dok se jelo sprema, vrijeme možete skratiti igrajući stolni tenis ili pikado, a možete i jednostavno uživati u ugođaju prirode koja Vas okružuje."
         image: assets/img/timeline/4.jpg
-        alt:
+        alt: Prostrana natkrivena terasa idealno je mjesto za druženje na svježem zraku.
         # you can enforce the alignment
         align: right
     end: "<br>Dobrodošli!"
