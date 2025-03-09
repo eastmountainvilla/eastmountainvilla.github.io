@@ -9,5 +9,5 @@ subtitle: U mjestu Batina, na obroncima takozvane baranjske Planine, smještena 
 image: assets/img/portfolio/kuca-za-odmor-night.jpg
 alt: Kuća za odmor Slavonija i Baranja.
 ---
-Kuća za odmor nudi smještaj za do 10 osoba, s 7 standardnih i 3 dodatna ležaja, pružajući udobnost i dovoljno prostora za obitelji i grupe prijatelja.
+Kuća za odmor nudi smještaj za do 10 osoba, sa 7 standardnih i 3 dodatna ležaja, pružajući udobnost i dovoljno prostora za obitelji i grupe prijatelja.
 
