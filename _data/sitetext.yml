@@ -45,11 +45,11 @@ en: &DEFAULT_EN
         alt: Prostrana natkrivena terasa idealno je mjesto za druženje na svježem zraku.
         # you can enforce the alignment
         align: right
-    end: "<br>Dobrodošli!"
+    end: "<br>Dobro došli!"
 
   about:
-    title: "Dobrodošli"
-    body: "**Dobrodošli u East Mountain Villa, Vašu oazu mira u predivnoj Baranji!**<br /><br />Okružena zelenilom i očaravajućim krajolikom Baranje, pruža pravu idilu prirode, udaljenu od gradske vreve i stresa. Bilo da tražite bijeg od svakodnevnih obaveza, romantični odmor za dvoje, obiteljsku avanturu ili proslavu važnih događaja u Vašem životu, kuća za odmor **East Mountain Villa** je idealna destinacija za **Vas**!"
+    title: "Dobro došli"
+    body: "**Dobro došli u East Mountain Villa, Vašu oazu mira u predivnoj Baranji!**<br /><br />Okružena zelenilom i očaravajućim krajolikom Baranje, pruža pravu idilu prirode, udaljenu od gradske vreve i stresa. Bilo da tražite bijeg od svakodnevnih obaveza, romantični odmor za dvoje, obiteljsku avanturu ili proslavu važnih događaja u Vašem životu, kuća za odmor **East Mountain Villa** je idealna destinacija za **Vas**!"
     section: about
 
   team:
