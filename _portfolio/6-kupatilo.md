@@ -1,11 +1,11 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Kupatilo
-  thumbnail: assets/img/portfolio/kupatilo.jpg
+  title: Kupaonica i toalet
+  thumbnail: assets/img/portfolio/Kupaonica.JPG
   alt: Kupatilo
 #what displays when the item is clicked:
-title: Kupatilo
+title: Kupaonica i toalet
 image: assets/img/portfolio/toalet.jpg
 alt: Toalet
 ---
-Kuća za odmor opremljena je jednim kupatilom s tuš kabinom i zasebnom toalet prostorijom za dodatnu privatnost.
+Osim kupaonice s tuš kabinom, u kući se nalazi i zasebni toalet.
