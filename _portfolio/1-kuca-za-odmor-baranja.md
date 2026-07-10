@@ -1,7 +1,7 @@
 ---
 caption: #what displays in the portfolio grid:
   title: East Mountain Villa
-  thumbnail: assets/img/portfolio/kuca-za-odmor-day.jpg
+  thumbnail: assets/img/portfolio/Kuca_Drvo.JPG
   alt: Kuća za odmor Slavonija i Baranja.
 #what displays when the item is clicked:
 title: Lokacija
