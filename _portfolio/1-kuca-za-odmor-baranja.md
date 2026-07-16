@@ -4,10 +4,11 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/Kuca_Drvo.JPG
   alt: Kuća za odmor Slavonija i Baranja.
 #what displays when the item is clicked:
-title: Lokacija
-subtitle: Smještena u mjestu  Batina, na obroncima Banskog brda, savršena je lokacija za istraživanje svega što Baranja nudi, ali i za potpuno opuštanje.
+title: Na mjestu gdje Baranja pokazuje svoje najljepše lice
+subtitle: Smještena u Batini, na obroncima Banskog brda, East Mountain Villa savršeno je polazište za istraživanje svega što Baranja nudi, ali i mjesto na kojem ćete poželjeti ostati cijeli dan.
+Za svega nekoliko minuta možete posjetiti vrhunske vinarije, obiteljske OPG-ove, vidikovce i biciklističke staze, istražiti Kopački rit ili uživati u bogatoj gastronomskoj ponudi regije. Kada se poželite vratiti miru, dočekat će vas privatnost, tišina i pogled na zelenilo koji podsjećaju koliko malo treba za pravi odmor.
 image: assets/img/portfolio/kuca-za-odmor-night.jpg
 alt: Kuća za odmor Slavonija i Baranja.
 ---
-Kuća nudi smještaj za do 7 osoba te krevetić za bebu, pružajući udobnost i dovoljno prostora za obitelji i grupe.
+East Mountain Villa prima do 7 gostiju, a uz osiguran dječji krevetić idealan je izbor za parove, obitelji i prijatelje koji žele zajedno doživjeti Baranju.
 
