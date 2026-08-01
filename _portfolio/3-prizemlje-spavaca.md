@@ -4,7 +4,7 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/Spavaca soba II_2.JPG
   alt: Spavaća soba s kaminom.
 #what displays when the item is clicked:
-title: Jedinstveni ugođaj gatora
+title: Spavaća soba s kaminom
 subtitle: Smještena u prizemlju, ova spavaća soba spaja udobnost, funkcionalnost i autentičan baranjski karakter. Soba raspolaže udobnim bračnim krevetom, dok se dnevni ležaj jednostavnim proširenjem pretvara u prostrani bračni krevet dimenzija 160 × 200 cm, pružajući fleksibilan smještaj.
 image: assets/img/portfolio/Spavaca soba II_3.JPG
 alt: Spavaća soba s kaminom.
