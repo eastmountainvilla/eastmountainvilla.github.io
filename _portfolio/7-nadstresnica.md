@@ -4,8 +4,8 @@ caption: #what displays in the portfolio grid:
   thumbnail: assets/img/portfolio/Pecenjara.JPG
   alt: Nadstrešnica s pogledom na šumu. 
 #what displays when the item is clicked:
-title: Natkrivena terasa s pečenjarom
-subtitle: Natkrivena terasa, s pogledom na šumu, stvorena je za zajedničke obroke i opuštena druženja.
+title: Natkrivena terasa
+subtitle: Natkrivena terasa s pečenjarom, koja gleda na gustu šumu, stvorena je za zajedničke obroke i opuštena druženja.
 image: assets/img/portfolio/nadstresnica-front.jpg
 alt: Nadstrešnica s pečenjarom. 
 ---
