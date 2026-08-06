@@ -25,20 +25,20 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Smještani kapactite kuće"
-        desc: "East Mountain Villa može ugostiti do 7 osoba, te na raspolaganju ima i kretević za bebe. Kuća se sastoji od dvije spavaće sobe, dnevnog boravka, potpuno opremljene kuhinje, blagovaonice, kupaonice i toaleta. Poseban ugođaj pružaju dva kamina te vinski podrum uređen kao prostor za druženje. U sklopu ograđenog dvorišta nalazi se natkrivena pečenjara s velikim stolom za objedovanje, kao i hot tub grijan na drva."
+      - title: "Smještani kapactit kuće"
+        desc: "East Mountain Villa može ugostiti do 7 osoba, te na raspolaganju ima i kretević za bebe. Kuća se sastoji od dvije spavaće sobe, dnevnog boravka, potpuno opremljene kuhinje, blagovaonice, vinskog podruma, kupaonice i toaleta. U sklopu ograđenog dvorišta nalazi se natkrivena terasa s pečenjara i velikim stolom za objedovanje, kao i hot tub grijan na drva."
         image: assets/img/timeline/1.jpg
         alt: Kuća za odmor nalazi se u Slavoniji i Baranji.
       - title: "Hot Tub grijan na drva"
-        desc: "Poseban doživljaj i istinski hedonizam pruža vanjska hidromasažna kada (jacuzzi/hot tub) grijana na drva. Masaža zračnih i vodenih mlaznica opustit će tijelo, a ugođaj koji pruža zeleni krajolik i pogled na čisto zvijezdano nebo opustit će Vaš um."
+        desc: "Poseban doživljaj i istinsko opuštanje pruža vanjska hidromasažna kada (jacuzzi/hot tub) grijana na drva, opremljena vodenim i zračnim mlaznicama te LED rasvjetom. Dovoljno je prostrana da u njoj istovremeno može uživati do 8 osoba."
         image: assets/img/timeline/2.jpg
         alt: Poseban doživljaj i istinski hedonizam pruža vanjski jacuzzi.
       - title: "Vinski podrum - Gator"
-        desc: "Opuštajući ambijent očekuje Vas i unutar kuće, gdje se skriva tradicionalni vinski podrum – gator. Uživanje u dobrom društvu i dobroj kapljici, dobiva novu dimenziju zbog jedinstvene arhitekture ovih podruma. Njihov oblik zaslužan je za odličnu akustiku gdje izvrsno ozvučenje zaista dolazi do izražaja. Kada se društvo dovoljno opusti tu su i dva mikrofona, jer sve je u životu bolje u paru!"
+        desc: "Opuštajući ambijent očekuje Vas i unutar kuće, gdje se skriva tradicionalni vinski podrum – gator. Uživanje u dobrom društvu i dobroj kapljici, dobiva novu dimenziju zbog jedinstvenog ugođaja ovih podruma."
         image: assets/img/timeline/3.jpg
         alt: Opuštajući ambijent očekuje Vas i unutar kuće.
       - title: "Natkrivena terasa"
-        desc: "Prostrana natkrivena terasa idealno je mjesto za druženje na svježem zraku. Za sve vrsne kuhare među Vama osigurali smo veliku pečenjaru, pribor za roštilj,kotlić, peku i ražanj. Dok se jelo sprema, vrijeme možete skratiti igrajući stolni tenis ili pikado, a možete i jednostavno uživati u ugođaju prirode koja Vas okružuje."
+        desc: "Prostrana natkrivena terasa idealno je mjesto za druženje na svježem zraku. Vrsni kuhari među Vama biti će zadovoljni s velikom pečenjarom, kao i opremom za razne gastroavanture: pribor za roštilj, kotlić, peka i ražanj."
         image: assets/img/timeline/4.jpg
         alt: Prostrana natkrivena terasa idealno je mjesto za druženje na svježem zraku.
         # you can enforce the alignment
