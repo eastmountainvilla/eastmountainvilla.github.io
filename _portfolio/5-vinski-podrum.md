@@ -1,8 +1,8 @@
 ---
 caption: #what displays in the portfolio grid:
-title: Ispod površine Baranje
-thumbnail: assets/img/portfolio/Gator_Vino.JPG
-alt: Vinski podrum za druženje.
+  title: Ispod površine Baranje
+  thumbnail: assets/img/portfolio/Gator_Vino.JPG
+  alt: Vinski podrum za druženje.
 #what displays when the item is clicked:
 title: Vinski podrum - Gator
 subtitle: Originalni baranjski gator, povezan s dnevnim boravkom najautentičniji je prostor u kući. 
