@@ -1,6 +1,6 @@
 <!-- Portfolio Grid -->
 {% if site.locale and site.locale != "" and site.locale != nil %}
-<section class="bg-light page-section" id="{{ site.data.sitetext.portfolio.section | default: "portfolio" }}">
+<section class="bg-light page-section" id="{{ site.data.sitetext[site.locale].portfolio.section | default: "portfolio" }}">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
@@ -11,13 +11,13 @@
     <div class="row">
 	{% for project in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" role="button" aria-label="View {{ project.caption.title }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}" aria-hidden="true"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="{{ project.caption.title }} - {{ project.caption.subtitle }}" loading="lazy">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
@@ -40,13 +40,13 @@
     <div class="row">
 	{% for project in site.portfolio %}
       <div class="col-md-4 col-sm-6 portfolio-item">
-        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}">
+        <a class="portfolio-link" data-toggle="modal" href="#p{{ forloop.index }}" role="button" aria-label="View {{ project.caption.title }}">
           <div class="portfolio-hover">
             <div class="portfolio-hover-content">
-              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}"></i>
+              <i class="{{ site.data.style.portfolio-icon | default: "fas fa-plus fa-3x" }}" aria-hidden="true"></i>
             </div>
           </div>
-          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="">
+          <img class="img-fluid" src="{{ project.caption.thumbnail }}" alt="{{ project.caption.title }} - {{ project.caption.subtitle }}" loading="lazy">
         </a>
         <div class="portfolio-caption">
           <h4>{{ project.caption.title }}</h4>
