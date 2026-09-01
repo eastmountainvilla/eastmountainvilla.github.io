@@ -24,19 +24,47 @@
   <meta name="author" content="{{ site.author }}">
   <meta name="keywords" content="Kuća za odmor Baranja, Kuća za odmor Slavonija, Private nature retreat with hot tub, Ferienhaus">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta name="theme-color" content="#212529">
+  <link rel="apple-touch-icon" href="/favicon.png">
+
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <meta property="og:image" content="{{ site.url }}/assets/img/header.jpg">
+  <meta property="og:type" content="website">
+  <meta property="og:locale" content="hr_HR">
+  
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ site.description }}">
+  <meta name="twitter:image" content="{{ site.url }}/assets/img/header.jpg">
 
   <title>{% if page.title %}{{ page.title | append: " | " | append: site.title }}{% else %}{{ site.title }}{% endif %}</title>
   
-  <style>
-  .not-hidden {
-    position: absolute;
-    left: -9999px;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
+  <!-- Schema.org JSON-LD Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Accommodation",
+    "name": "{{ site.title }}",
+    "description": "{{ site.description }}",
+    "url": "{{ site.url }}",
+    "image": "{{ site.url }}/assets/img/header.jpg",
+    "address": {
+      "@type": "PostalAddress",
+      "addressRegion": "Baranja",
+      "addressCountry": "HR"
+    },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "email": "{{ site.email }}",
+      "contactType": "Customer Service"
+    },
+    "priceRange": "€€"
   }
-</style>
-  <h1 class="not-hidden">Kuća za odmor u Baranji i Slavoniji!</h1>
+  </script>
 
   <!-- Bootstrap core CSS -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
