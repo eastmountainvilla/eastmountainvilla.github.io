@@ -74,10 +74,13 @@
   .modal-dialog {
     margin: 1rem;
     max-width: 100%;
+    width: 100%;
   }
   .modal-content {
     padding: 100px 0;
     text-align: center;
+    width: 100%;
+    overflow: hidden;
     h2 {
       font-size: 3em;
       margin-bottom: 15px;
@@ -97,6 +100,8 @@
     }
     img {
       margin-bottom: 30px;
+      max-width: 100%;
+      height: auto;
     }
     button {
       cursor: pointer;
@@ -135,6 +140,27 @@
         transform: rotate(90deg);
         background-color: $gray-900;
       }
+    }
+  }
+}
+
+// Mobile-specific fix for horizontal scroll
+@media (max-width: 767px) {
+  .portfolio-modal {
+    .modal-dialog {
+      margin: 0;
+      width: 100vw;
+      max-width: 100vw;
+      height: 100vh;
+    }
+    .modal-content {
+      border-radius: 0;
+      height: 100%;
+      overflow-y: auto;
+    }
+    .container {
+      max-width: 100%;
+      padding: 0 15px;
     }
   }
 }
