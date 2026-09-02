@@ -18,10 +18,13 @@ header.masthead {
       @include serif-font;
     }
     .intro-heading {
-      font-size: 50px;
+      font-size: 40px;
       font-weight: 700;
-      line-height: 50px;
-      margin-bottom: 25px;
+      line-height: 45px;
+      margin-bottom: 50px;
+      background-color: #fed136;
+      padding: 10px 20px;
+      display: inline-block;
       @include heading-font;
     }
   }
@@ -38,12 +41,15 @@ header.masthead {
         margin-bottom: 25px;
         @include serif-font;
       }
-      .intro-heading {
-        font-size: 75px;
-        font-weight: 700;
-        line-height: 75px;
-        margin-bottom: 50px;
-        @include heading-font;
+    .intro-heading {
+      font-size: 40px;
+      font-weight: 700;
+      line-height: 45px;
+      margin-bottom: 50px;
+      background-color: #fed136;
+      padding: 10px 20px;
+      display: inline-block;
+      @include heading-font;
       }
     }
   }
