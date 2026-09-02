@@ -48,3 +48,10 @@ header.masthead {
     }
   }
 }
+
+@media (max-width: 767px) {
+  header.masthead {
+    background-size: 100% auto;
+    background-position: center top;
+  }
+}
